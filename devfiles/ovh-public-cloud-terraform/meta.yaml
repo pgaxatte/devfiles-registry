@@ -1,0 +1,8 @@
+displayName: OVH Public Cloud Terraform
+description: Work on OVH Public Cloud using OpenStack and terraform
+tags: [ "ovh", "openstack", "terraform" ]
+icon: /images/ovh.svg
+links:
+  v2: https://github.com/pgaxatte/devfiles-registry/tree/master
+  devWorkspaces:
+    che-incubator/che-code/insiders: /devfiles/ovh-public-cloud-terraform/devworkspace-che-code-insiders.yaml
